@@ -3,7 +3,7 @@ Cloudns ip autoupdate
 
 ## ip.bat
 - 获取ip使用
-`` for /f "tokens=16" %%i in ('ipconfig ^|find /i "202"') do set ip=%%i
+```` for /f "tokens=16" %%i in ('ipconfig ^|find /i "202"') do set ip=%%i
 - 里的202为ip特征，可改为115，202，192，58等等
 
 ## ip_alone.bat
