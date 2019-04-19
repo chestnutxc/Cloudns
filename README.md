@@ -16,7 +16,7 @@ Cloudns ip autoupdate
 - 用于将bat和vbs联系起来，bat获取ip并保存，vbs读取ip并静默访问网址
 
 ## updateIP.vbs
--静默执行ip.bat，并更新ip给Cloudns
+- 静默执行ip.bat，并更新ip给Cloudns
 
 ## PS：
 - 已使用相对目录
