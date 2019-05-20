@@ -1,6 +1,5 @@
 # Cloudns
-Cloudns ip autoupdate
-
+update ip of domain automatically
 ## ip.bat
 - 获取ip使用
 - for /f "tokens=16" %%i in ('ipconfig ^|find /i "202"') do set ip=%%i
